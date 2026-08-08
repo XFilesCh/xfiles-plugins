@@ -453,11 +453,11 @@
     "mandatory": true
   },
   "receiver": {
-    "versionCode": 20260806,
-    "versionName": "2.0.0",
-    "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/receiver/XFiles-Receiver-20260806.apk",
-    "sha256": "8f5060a583d9f5d6a578cf126d57542a8c0c7887b8981c08304141291db09700",
-    "notes": "",
+    "versionCode": 20260808,
+    "versionName": "20260808",
+    "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/receiver/XFiles-Receiver-20260808.apk",
+    "sha256": "5a2840f7f7c7f893c1f0dc061a8acec5728f485f7414386635c601287a287bc8",
+    "notes": "fix room info and add hide outline minimap",
     "mandatory": true
   }
 }
