@@ -445,11 +445,11 @@
     }
   },
   "app": {
-    "versionCode": 20260809,
-    "versionName": "2.1.0",
-    "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/app/XFilesLoader-arm64-v8a-20260809.apk",
-    "sha256": "c3676baffed838b8c84bfe8603b85f94b4ddc54c093687f34b26eb1a319cfa3c",
-    "notes": "add floating mode",
+    "versionCode": 20260810,
+    "versionName": "2.2.0",
+    "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/app/XFilesLoader-arm64-v8a-20260810.apk",
+    "sha256": "954389cfc7ed5a912210b838cff89f4e42481033657eed9d9645e65db5172e09",
+    "notes": "fix magisk popup not showing",
     "mandatory": true
   },
   "receiver": {
