@@ -1,0 +1,538 @@
+{
+  "games": {
+    "8bp": {
+      "name": "8 Ball Pool",
+      "tier": "paid",
+      "key_prefix": "8BP-",
+      "pkg_variants": [
+        {
+          "pkg": "com.miniclip.eightballpool",
+          "label": "Default",
+          "versionGameRequired": "56.29.2"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/8bp/arm64-v8a/libGame8BP.so.enc",
+          "sha256": "617eb0a96aa3fee78fc0f6db474d42f6edb5dd7d8b112af5af36eae387af01f8",
+          "enc_sha256": "aedb08826e5d36a7945149397c36ed20cd1d68b60303131983ec519cf8edc818"
+        }
+      }
+    },
+    "aus": {
+      "name": "Among Us",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.innersloth.spacemafia",
+          "label": "Default",
+          "versionGameRequired": "2026.8.18"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/aus/arm64-v8a/libGameAUS.so.enc",
+          "sha256": "18b07ac011899d401c1f52782d5660b662edf80decf26cd3dc0dead1ed6b3a36",
+          "enc_sha256": "61328a41c0106f1f649da02ed23c6eb7ef37dbb035b6a6790b3d81ac79d7802f"
+        }
+      }
+    },
+    "bs": {
+      "name": "Blood Strike Mobile",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.netease.newspike",
+          "label": "Default",
+          "versionGameRequired": "1.003.650022"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/bs/arm64-v8a/libGameBS.so.enc",
+          "sha256": "1a794fdf119a381fbd46caa92475ab1a89523b313571b8f00d3d3d8c1dcd5d54",
+          "enc_sha256": "7aec7d32bbf16ec7b918944d19de905879a8a1b3dd96ae5c3a5698e482896b6b"
+        }
+      }
+    },
+    "cfl": {
+      "name": "Crossfire Legend",
+      "tier": "bonus",
+      "key_prefix": "",
+      "changelog": [
+        "update to latest playstore"
+      ],
+      "pkg_variants": [
+        {
+          "pkg": "com.tencent.stc.cfl",
+          "label": "Default",
+          "versionGameRequired": "1.0.16.84"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/cfl/arm64-v8a/libGameCFL.so.enc",
+          "sha256": "90dea965489438a9b620dcdbbcdca9799e7c4a12a88969a179f9526eb8f029e4",
+          "enc_sha256": "478d2f0abf2896ff2c86cfeea16856025cf5ee0c8ff0703cbcbdaaf8cb385711"
+        }
+      }
+    },
+    "codm": {
+      "name": "Call of Duty Mobile",
+      "tier": "bonus",
+      "key_prefix": "",
+      "require_kernel_only": true,
+      "pkg_variants": [
+        {
+          "pkg": "com.garena.game.codm",
+          "label": "Garena",
+          "versionGameRequired": "1.6.57"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/codm/arm64-v8a/libGameCODM.so.enc",
+          "sha256": "0623601694eae3658a5911fa546f3917c4a61a6f3bcccc25e04d1246d212edac",
+          "enc_sha256": "a1241a487ac4d561f3c406731a85df85b4a7fa29947aad79e8a2979059f9da6a"
+        }
+      }
+    },
+    "dfm": {
+      "name": "Delta Force",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.garena.game.df",
+          "label": "Garena",
+          "versionGameRequired": "1.203.37114.5401"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/dfm/arm64-v8a/libGameDFM.so.enc",
+          "sha256": "84ff1be570eefb9927dce769faf6e0f92d4680c821dc45c1c99753cfb5ec1352",
+          "enc_sha256": "c17b51fc5a525daa6610712d350864b3dd0fb1888f30fa9a54e848875160d5d2"
+        }
+      }
+    },
+    "faug": {
+      "name": "FAU-G",
+      "tier": "bonus",
+      "key_prefix": "",
+      "changelog": [
+        "update to latest playstore"
+      ],
+      "pkg_variants": [
+        {
+          "pkg": "com.dotnine.faug",
+          "label": "Default",
+          "versionGameRequired": "1.2.031"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/faug/arm64-v8a/libGameFAUG.so.enc",
+          "sha256": "44ce75b472a34f19a4917581b1f28ff992b2dfd681108515e2dcd35a50b852b9",
+          "enc_sha256": "11845f29d58423d578f2cce17448527f87ff2a0fcfbda1d16b3544c22d1370bc"
+        }
+      }
+    },
+    "fn": {
+      "name": "Fortnite",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.epicgames.fortnite",
+          "label": "Default",
+          "versionGameRequired": "42.00.0-56878558-Android"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/fn/arm64-v8a/libGameFN.so.enc",
+          "sha256": "8816b53eff8aef9ca454c2c9cee0a19662a5202bf566a4a9bcd100823d428b7a",
+          "enc_sha256": "8b8222667257b9a6138467bf80edcac5e8d368c0a27d2abf22d77833191e5ae6"
+        }
+      }
+    },
+    "fr48": {
+      "name": "Farlight 84",
+      "tier": "bonus",
+      "key_prefix": "",
+      "gfx_mode": "surfaceflinger",
+      "pkg_variants": [
+        {
+          "pkg": "com.miraclegames.farlight84",
+          "label": "Default",
+          "versionGameRequired": "2.11.0.0.1639369"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/fr48/arm64-v8a/libGameFR48.so.enc",
+          "sha256": "dffc0ae1fabb461bf98821da4ad6a4caa37f7a67bb47ea78ae5cc69df2961341",
+          "enc_sha256": "d88bcfeddc865f105fc886e81542d5d0eb73bb44812220dcb3033048d106a370"
+        }
+      }
+    },
+    "gng": {
+      "name": "Gold and Glory",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.dois.greedgame",
+          "label": "Default",
+          "versionGameRequired": "2.35"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/gng/arm64-v8a/libGameGNG.so.enc",
+          "sha256": "4443c199edfbee883bb4db372d0fd85d0987ceafd4c72989419647b4d81266e8",
+          "enc_sha256": "493194caf36af1501a69412bbb2342a44591642602cb545a669f1019c2228336"
+        }
+      }
+    },
+    "hhe": {
+      "name": "High Heroes Energy",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.tencent.tmgp.gnyx",
+          "label": "CN",
+          "versionGameRequired": "1.13.8.5400"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/hhe/arm64-v8a/libGameHHE.so.enc",
+          "sha256": "f89a3ad5d6deb0a7491ad24ce3eb81b53ee85e486c945fb570a9db6de7c393bf",
+          "enc_sha256": "7f38b42f86ac057316e761de0fe74ea13ea0978f48240203021ab5a0626c2f41"
+        }
+      }
+    },
+    "mcgg": {
+      "name": "Magic Chess GG",
+      "tier": "paid",
+      "key_prefix": "MCGG-",
+      "changelog": [
+        "Change Neobeast to Echomancer",
+        "update purple gogocard",
+        "add all matchup"
+      ],
+      "pkg_variants": [
+        {
+          "pkg": "com.mobilechess.gp",
+          "label": "Default",
+          "versionGameRequired": "1.3.08.3241"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/mcgg/arm64-v8a/libGameMCGG.so.enc",
+          "sha256": "62e8e1ad3fa70d81626e7b69f1c0b25fcc9134342b1a9ddffb529ef258034a17",
+          "enc_sha256": "6b484b570b3378a170f8fa448416aabd3b3af6f1de43d607e64c65a5b8cdf943"
+        }
+      }
+    },
+    "mdwr": {
+      "name": "Modern Warships",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.Shooter.ModernWarships",
+          "label": "Default",
+          "versionGameRequired": "0.108.0.120516466"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/mdwr/arm64-v8a/libGameMDWR.so.enc",
+          "sha256": "ee72450d48262d5cc193d67565ff29107e81194eaa69c194e65b195edeed9b88",
+          "enc_sha256": "ec23b4cd9d59cf4a797cd5472e6a74c1cd5c5a34dbf2b1ebc5163ce6f70a3e7e"
+        }
+      }
+    },
+    "ml": {
+      "name": "Mobile Legends",
+      "tier": "paid",
+      "key_prefix": "MLBB-",
+      "changelog": [
+        "New Enemy Ult/Spell HUD — hero icons + CD timer (yellow=ult, blue=spell)",
+        "HUD can be shared to receiver (🎯 widget) via WS relay",
+        "Fix receiver minimap flicker when ult HUD share is active"
+      ],
+      "pkg_variants": [
+        {
+          "pkg": "com.mobile.legends",
+          "label": "Global",
+          "versionGameRequired": "2.1.95.12053"
+        },
+        {
+          "pkg": "com.mobile.legends.usa",
+          "label": "USA",
+          "versionGameRequired": "2.1.95.12065"
+        },
+        {
+          "pkg": "com.mobiin.gp",
+          "label": "India",
+          "versionGameRequired": "2.1.95.12055"
+        },
+        {
+          "pkg": "com.mobilelegends.mi",
+          "label": "Xiaomi",
+          "versionGameRequired": "2.1.95.12053"
+        },
+        {
+          "pkg": "com.hhgame.mlbbvn",
+          "label": "FT",
+          "versionGameRequired": "2.1.95.12053"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/ml/arm64-v8a/libGameML.so.enc",
+          "sha256": "79c91dfb2de50db0439e1eceba7fb61b50d8eebd291cbc795c2cc323faf10735",
+          "enc_sha256": "658d7de297f26a4b78bb2e553968330994e1444d88dbf2ea53c572fcfb2529a2"
+        }
+      }
+    },
+    "mwr": {
+      "name": "Mini World Royale",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.sea.miniworldroyale.sparkgame",
+          "label": "Default",
+          "versionGameRequired": "1.0.69"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/mwr/arm64-v8a/libGameMWR.so.enc",
+          "sha256": "9c558a6d3abb3379324a467f0f44ea0fb67a4b459cd6d451c57eb11326fa153a",
+          "enc_sha256": "b95707f51cced3e463e4d0abd5a4583805bffc35c46cb674abb5ebc05644440a"
+        }
+      }
+    },
+    "pr": {
+      "name": "Prime Rush",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.indusgame.play",
+          "label": "Default",
+          "versionGameRequired": "2.14.0"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/pr/arm64-v8a/libGamePR.so.enc",
+          "sha256": "66f1ac8b7d99a628a20ca9a5925ed7648dc89f60cc380f7ce339b02073b5be1c",
+          "enc_sha256": "de20a61c72a59c653060fd73ec93b76a7b80edcb2a6a7b9be64a5b1c359542e2"
+        }
+      }
+    },
+    "pu": {
+      "name": "Pokemon Unite",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "jp.pokemon.pokemonunite",
+          "label": "Default",
+          "versionGameRequired": "1.23.1.7"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/pu/arm64-v8a/libGamePU.so.enc",
+          "sha256": "c0547cff47f70d8883c60f11d7dac91d1f81c5cdc53eee0bfbd6cfc15f4df9b4",
+          "enc_sha256": "1dcd57b971721dab241dd6f3eb315a7b3af78c596fc76e770145f9adffa16880"
+        }
+      }
+    },
+    "pubgm": {
+      "name": "PUBG Mobile",
+      "tier": "bonus",
+      "key_prefix": "",
+      "changelog": [
+        "Add Bullet Track"
+      ],
+      "pkg_variants": [
+        {
+          "pkg": "com.tencent.ig",
+          "label": "Global",
+          "versionGameRequired": "4.5.0"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/pubgm/arm64-v8a/libGamePUBGM.so.enc",
+          "sha256": "d734bd5160ec1cc068a2e36c4e3f68ebc39be7484a8687e1af4598a06ad0242e",
+          "enc_sha256": "290579e00c253439c8b6ba53fec9ec87f6b04c39827dbfc86d541085d8a95863"
+        }
+      }
+    },
+    "r6": {
+      "name": "Rainbow Six Mobile",
+      "tier": "paid",
+      "key_prefix": "R6-",
+      "gfx_mode": "surfaceflinger",
+      "pkg_variants": [
+        {
+          "pkg": "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
+          "label": "Default",
+          "versionGameRequired": "2.2.103"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/r6/arm64-v8a/libGameR6.so.enc",
+          "sha256": "f7c393234577bb1cb72da310903f1f80b879159169b3596d8d3b83241f5bbb75",
+          "enc_sha256": "d7744b99f834869824e08dc0181a23cbae708a9b122fd3dbb39f27f1c16ff290"
+        }
+      }
+    },
+    "sgm": {
+      "name": "Sausage Man",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.GlobalSoFunny.Sausage",
+          "label": "Default",
+          "versionGameRequired": "25.13"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/sgm/arm64-v8a/libGameSGM.so.enc",
+          "sha256": "68e7d81f6f17e5ee6cc7767bc48682c4dffb1c963318c0a7c40b9534d746ed42",
+          "enc_sha256": "16792f28ab73435d47fbb888cb4afcc6cd8580870926519d03bc55b16a16cf2a"
+        }
+      }
+    },
+    "so2": {
+      "name": "Standoff 2",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.axlebolt.standoff2",
+          "label": "Default",
+          "versionGameRequired": "0.39.2"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/so2/arm64-v8a/libGameSO2.so.enc",
+          "sha256": "312fc66359808101e6a6a975b591f31714f5d131cc254ad4375ef887a9e8e678",
+          "enc_sha256": "52377e1c5b3482adcb6ba95f1a8300401b7bb812b8621e81352d110306b2c6b5"
+        }
+      }
+    },
+    "valo": {
+      "name": "Valorant Mobile",
+      "tier": "bonus",
+      "key_prefix": "",
+      "maintenance": true,
+      "pkg_variants": [
+        {
+          "pkg": "com.tencent.tmgp.codev",
+          "label": "CN",
+          "versionGameRequired": "1.23.0"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/valo/arm64-v8a/libGameVALO.so.enc",
+          "sha256": "fb0dc2eab5d51b048ca168cb2baab01dc4df336d682d80eb16ce76ac21b18fd8",
+          "enc_sha256": "f10587bc48650a9da7067718f93547bb1aae8e7d566f21e6755a95aa1ae5f738"
+        }
+      }
+    },
+    "cops": {
+      "name": "Critical Ops",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.criticalforceentertainment.criticalops",
+          "label": "Default",
+          "versionGameRequired": "1.80.0.f3371"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/cops/arm64-v8a/libGameCOPS.so.enc",
+          "sha256": "91ffb9ed21edf821ea2da0b643a125e0f0d40d95faedffc06da96f4dff8016a1",
+          "enc_sha256": "ebed51a691e2c9e006aeb9354013ff77b62c9b0efb14e696cf0a461a410a2cbd"
+        }
+      }
+    },
+    "oxide": {
+      "name": "Oxide: Survival Island",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.catsbit.oxidesurvivalisland",
+          "label": "Default",
+          "versionGameRequired": "1.13.11905"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/oxide/arm64-v8a/libGameOXIDE.so.enc",
+          "sha256": "a88e10f9aaad9f44fe4f025d6ad4eec20419d07542def08d16c30c5104e6fbd2",
+          "enc_sha256": "0eccfbf1cdf3c3a35b362c3bc8ecc02f86561c02171f82aedc9f8e0f729e2423"
+        }
+      }
+    },
+    "nf": {
+      "name": "Nizhan Future",
+      "tier": "bonus",
+      "key_prefix": "",
+      "pkg_variants": [
+        {
+          "pkg": "com.tencent.tmgp.nz",
+          "label": "Default",
+          "versionGameRequired": "1.0.50.485.0"
+        }
+      ],
+      "abis": {
+        "arm64-v8a": {
+          "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/nf/arm64-v8a/libGameNF.so.enc",
+          "sha256": "a96bf59bfefc9f1593db0e4f450b47b91baa8c8a3b6977203081d64d739e660c",
+          "enc_sha256": "71467efa39810d91810c20a3238ca9340c8cc3a0ee8396deb76aed5de9bfc033"
+        }
+      }
+    }
+  },
+  "app": {
+    "versionCode": 20260831,
+    "versionName": "2.9.1",
+    "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/app/XFilesLoader-arm64-v8a-20260831.apk",
+    "sha256": "2497090acae001125a1e43b1d4136ca900da90a09e5aafd253026210139405e9",
+    "notes": "fix crash and touch",
+    "mandatory": true
+  },
+  "receiver": {
+    "versionCode": 20260812,
+    "versionName": "2.3.0",
+    "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/receiver/XFiles-Receiver-20260812.apk",
+    "sha256": "ff28f2c8b9d6d20680ffd22bf9a185daa937f8d927462f43ad39cc70eb2b2d70",
+    "notes": "add receiver modul for magic chess",
+    "mandatory": true
+  }
+}
