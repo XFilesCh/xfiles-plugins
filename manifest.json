@@ -541,11 +541,11 @@
     }
   },
   "app": {
-    "versionCode": 20261011,
-    "versionName": "4.0.0",
-    "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/app/XFilesLoader-arm64-v8a-20261011.apk",
-    "sha256": "78ed3e5cb9847917f3409ab34f665f3e5d81c4191b9c9d4f297b0ed0c804ed30",
-    "notes": "",
+    "versionCode": 20261023,
+    "versionName": "4.1.0",
+    "url": "https://raw.githubusercontent.com/XFilesCh/xfiles-plugins/main/app/XFilesLoader-arm64-v8a-20261023.apk",
+    "sha256": "b5970f5fbcbd0ce810c65b085965513676cafe875c2c225396a911444c16672a",
+    "notes": "fix novaria + franco",
     "mandatory": true
   },
   "receiver": {
